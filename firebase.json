@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"egrocer-project","appId":"1:831528491039:android:6b3e10d077018d22315d2a","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"egrocer-project","configurations":{"android":"1:831528491039:android:6b3e10d077018d22315d2a","ios":"1:831528491039:ios:5812912b4515e6b8315d2a"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831528491039",
+    "project_id": "egrocer-project",
+    "storage_bucket": "egrocer-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831528491039:android:6b3e10d077018d22315d2a",
+        "android_client_info": {
+          "package_name": "com.wrteam.egrocer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWONSDG-eC5jLHRRYj5qe0Y1JVxoFtpwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
